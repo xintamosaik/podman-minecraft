@@ -43,6 +43,7 @@ spec:
     name: minecraft
     ports:
     - containerPort: 25565
+    - hostPort: 25565
     volumeMounts:
     - mountPath: /data
       name: home-ulf-minecraft-server-host-0
