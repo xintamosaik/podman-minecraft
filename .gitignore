@@ -1,0 +1,9 @@
+logs/
+cache/
+crash-reports/
+world/
+backups/
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
